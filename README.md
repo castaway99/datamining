@@ -1,4 +1,4 @@
 # datamining
 
 Auteur : Boumezrag Hadj Abdelkader
-Projet : Moteur de ecommandations de produits
+Projet : Moteur de recommandations de produits
